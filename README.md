@@ -1,4 +1,3 @@
-# APLIKASI CRUD
 
 | UTS  |  Pemrograman Mobile 2  
 |-------|---------
@@ -7,9 +6,10 @@
 | Kelas | TI.23.A.6
 | Dosen |  Donny Maulana, S.Kom., M.M.S.I.
 
+# APLIKASI CRUD
 ![image](appcrud.png)
 
-Aplikasi "GaLupa", merupakan aplikasi manajemen agenda atau catatan aktivitas.
+# Aplikasi "GaLupa", merupakan aplikasi manajemen agenda atau catatan aktivitas.
 
 ### 1. **Splash Screen**
 - **Fungsi**: Tampilan awal saat aplikasi dibuka.
